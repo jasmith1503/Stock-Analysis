@@ -9,7 +9,7 @@ Original run of Excel file "green_stocks.xlsm" took 1.007813 seconds
 ![2018 Unfactored time](Resources/Unfactored 2018 Run Time.png)
 
 After refactoring code it ran in 0.5703125 seconds
-![2018 Refactored time](Resources/Refactored 2018 Run Time.png)
+![2018 Refactored time](Resources/Refactored%202018%20Run%20Time.png)
 
 This improved the time by ~56.6%!
 
