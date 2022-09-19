@@ -19,6 +19,7 @@ This improved the time by ~56.6%!
 By refactoring the VBA code to hold the stock tickers in an Array this allows Excel VBA to better manage the memory allocation during execution of the code. In this small sample this more than doubled the speed the code was able to execute. 
 
 The results of the refactored code for 2018 produced the same results as the non-factored VBA code: 
+
 ![2018 Refactored Results](Resources/VBA_Challenge_2018.png)
 
 ### Advantages
